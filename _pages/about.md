@@ -20,7 +20,7 @@ News
 <div style="height: 240px; overflow: auto;">
 <ul>
   <li>
-		[04/2023] I received a Ph.D. offer from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
+		[04/2023] I received a <p style="color:red; font-weight:bold;">Ph.D. offer</p> from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
 	</li>
 	<li>
 		[03/2023] I was awarded the Excellent Student Scholarship for MSc BDT Program in AY2022/23!<br />
