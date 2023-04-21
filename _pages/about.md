@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a master student at [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) Program, the Department of Computer Science and Engineering (CSE), The Hong Kong University of Science and Technology (HKUST). I received my B.S. degree from Southeast University in 2018 under the guidance of [Prof. Tianxing WU](tianxing-wu.github.io). 
+I am now a master student at [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) Program, the Department of Computer Science and Engineering (CSE), The Hong Kong University of Science and Technology (HKUST). I received my B.E. degree from Southeast University in 2018 under the guidance of [Prof. Tianxing WU](tianxing-wu.github.io). 
 
 I will start my Ph.D on 2023 Fall under the guidance of [Prof. Jiguang WANG](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), co-supervised by [Prof. Hao CHEN](https://hkustsmartlab.netlify.app/people/prof.-hao-chen/).
 
@@ -48,16 +48,7 @@ News
 
 Education
 ======
-September 2022 - Expected June 2023
 
-M.S. in Big Data Technology at The Hong Kong University of Science and Technology, Hong Kong SAR
-
-
-September, 2018 - June, 2022
-
-B.E. in Computer Science and Engineering (Artificial Intelligence) at Southeast University, China
-
-(Advisor: [Prof. Tianxing WU](tianxing-wu.github.io))
 
 Awards
 ======
