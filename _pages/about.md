@@ -1,16 +1,66 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am now a master student at [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) Program, the Department of Computer Science and Engineering (CSE), The Hong Kong University of Science and Technology (HKUST). I received my B.S. degree from Southeast University in 2018 under the guidance of [Prof. Tianxing WU](tianxing-wu.github.io). 
 
-A data-driven personal website
+I will start my Ph.D at [Wang-lab@HKUST](https://wang-lab.hkust.edu.hk/) / [SmartLab@HKUST](https://hkustsmartlab.netlify.app/) on 2023 Fall under the guidance of [Prof. Jiguang WANG](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), co-supervised by [Prof. Hao CHEN](https://hkustsmartlab.netlify.app/people/prof.-hao-chen/).
+
+My research interests include medical image analysis and deep learning. Recently, I'm focusing on **mitigating dataset debias and trustworthy machine learning**.
+
+
+News
+======
+<div style="height: 240px; overflow: auto;">
+<ul>
+  <li>
+		[04/2023] I received a Ph.D. offer from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
+	</li>
+	<li>
+		[03/2023] I was awarded the Excellent Student Scholarship for MSc BDT Program in AY2022/23!<br />
+	</li>
+	<li>
+		[09/2022] One journal paper was accepted by Frontiers in Public Health.<br />
+	</li>
+	<li>
+		[07/2022] I joined SmartLab @ HKUST as an intern.<br />
+	</li>
+	<li>
+	[06/2022] I received <a href="https://mp.weixin.qq.com/s/vf07uoFXJeO4gJeNXbzZ6A"><b>my bachelor degree</b></a> at SEU.<br />
+	</li>
+	<li>
+	[12/2021] I received an offer from Msc CS @ HKU. (I reject this offer TAT)<br />
+	</li>
+	<li>
+	[12/2021] I received an offer from Msc BDT @ HKUST.<br />
+	</li>
+  <li>
+	[01/2021] One conference short paper was accepted by CIKM 2021.<br />
+	</li>
+</ul>
+</div>
+
+Education
+======
+September 2022 - Expected June 2023
+M.S. in Big Data Technology at The Hong Kong University of Science and Technology, Hong Kong SAR
+
+September, 2018 - June, 2022
+B.E. in Computer Science and Engineering (Artificial Intelligence) at Southeast University, China
+(Advisor: [Prof. Tianxing WU](tianxing-wu.github.io))
+
+Awards
+======
+**The Excellent Student Scholarship for MSc BDT Program (10,000 HKD)**, 2023
+**Huawei Scholarship (5,000 CNY)**, 2021
+**Lenovo Research Scholarship (5,000 CNY)**, 2021
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +97,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
