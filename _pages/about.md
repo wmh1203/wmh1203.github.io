@@ -46,8 +46,6 @@ News
 </ul>
 </div>
 
-Education
-======
 
 
 Awards
