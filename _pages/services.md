@@ -7,4 +7,4 @@ author_profile: true
 #   - /resume
 ---
 
-**MSBD 5005** Course Project Display: can be viewed [here](https://apple1203.github.io/posts/msbd5005.html).
+HKUST **MSBD 5005** Course Project Display: can be viewed [here](https://apple1203.github.io/posts/msbd5005.html).
