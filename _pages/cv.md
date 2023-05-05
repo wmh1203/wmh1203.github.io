@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can also click [here](https://github.com/wmh1203/wmh1203.github.io/raw/master/files/MinghaoWang.pdf) to get the pdf version of my CV.
+You can also click [here](https://wmh1203.github.io/files/MinghaoWang.pdf) to get the pdf version of my CV.
 
 Education
 ======
