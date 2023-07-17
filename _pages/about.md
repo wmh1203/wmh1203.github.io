@@ -20,7 +20,7 @@ News
 <div style="height: 240px; overflow: auto;">
 <ul>
 	<li>
-		[07/2023] I received my [Master's Degree from HKUST](https://wmh1203.github.io/files/Certificate.png)!<br />
+		[07/2023] I received <a href="https://wmh1203.github.io/files/Certificate.png"><b>my Master's degree</b></a> at HKUST!<br />
 	</li>
   <li>
 		[04/2023] I received a <font color="red">Ph.D. offer</font> from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
@@ -35,7 +35,7 @@ News
 		[07/2022] I joined SmartLab @ HKUST as an intern.<br />
 	</li>
 	<li>
-	[06/2022] I received <a href="https://mp.weixin.qq.com/s/vf07uoFXJeO4gJeNXbzZ6A"><b>my bachelor degree</b></a> at SEU.<br />
+	[06/2022] I received <a href="https://mp.weixin.qq.com/s/vf07uoFXJeO4gJeNXbzZ6A"><b>my Bachelor's degree</b></a> at SEU!<br />
 	</li>
 	<li>
 	[12/2021] I received an offer from Msc CS @ HKU. (I reject this offer TAT)<br />
