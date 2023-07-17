@@ -19,6 +19,9 @@ News
 ======
 <div style="height: 240px; overflow: auto;">
 <ul>
+	<li>
+		[07/2023] I received my [Master's Degree from HKUST](/files/Certificate.png)!<br />
+	</li>
   <li>
 		[04/2023] I received a <font color="red">Ph.D. offer</font> from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
 	</li>
