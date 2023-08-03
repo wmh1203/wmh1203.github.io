@@ -18,7 +18,7 @@ News
 <div style="height: 240px; overflow: auto;">
 <ul>
 	<li>
-		[07/2023] I received <a href="https://wmh1203.github.io/files/Certificate.png"><b>my Master's degree</b></a> at HKUST!<br />
+		[07/2023] I received <a href="https://wmh1203.github.io/files/Diploma.png"><b>my Master's degree</b></a> at HKUST!<br />
 	</li>
   <li>
 		[04/2023] I received a fully-funded <font color="red">Ph.D. offer</font> at HKUST from Prof. Jiguang WANG and Prof. Hao CHEN!<br />
